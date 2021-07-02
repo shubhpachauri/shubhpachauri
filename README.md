@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shubhpachauri
 - 👀 I’m interested in web dev and data science 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning dsa
 - 📫 How to reach me => u can mail me 
 
 <!---
